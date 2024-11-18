@@ -4,12 +4,14 @@ An image mixer building upon the good old neural style transfer
 
 # installation
 
+'''
 conda create -n style python==3.10
 conda activate style
 conda install pytorch torchvision torchaudio pytorch-cuda=12.1 -c pytorch -c nvidia
 pip install gradio
 pip install kornia
 pip install einops
+'''
 
 # run
 
