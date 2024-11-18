@@ -15,8 +15,11 @@ pip install einops
 
 # run
 
+```
 conda activate style
 python stylerapp2e.py --cuda
+```
+
 
 Then use your browser to go to the given url.
 
